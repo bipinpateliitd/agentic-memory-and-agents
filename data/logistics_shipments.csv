@@ -1,0 +1,151 @@
+shipment_id,origin_city,destination_city,vehicle_type,status,distance_km,freight_cost_inr
+SHP1001,Mumbai,Mumbai,Container,Delayed,1561,77911.45
+SHP1002,Delhi,Delhi,Truck,Out for Delivery,1060,59957.72
+SHP1003,Jaipur,Pune,Truck,Delayed,1452,59533.11
+SHP1004,Pune,Bangalore,Mini Truck,Delayed,1759,52561.61
+SHP1005,Pune,Bangalore,Container,Delivered,1122,33108.94
+SHP1006,Chennai,Mumbai,Van,Delivered,807,71281.23
+SHP1007,Chennai,Delhi,Container,Delayed,1386,68073.72
+SHP1008,Delhi,Bangalore,Van,Delivered,155,8911.72
+SHP1009,Delhi,Pune,Container,Out for Delivery,1466,34224.12
+SHP1010,Jaipur,Mumbai,Van,Delayed,410,78755.95
+SHP1011,Ahmedabad,Bangalore,Mini Truck,In Transit,202,77272.56
+SHP1012,Chennai,Delhi,Van,In Transit,1106,49963.09
+SHP1013,Jaipur,Ahmedabad,Mini Truck,Delayed,1852,25441.7
+SHP1014,Ahmedabad,Chennai,Mini Truck,Delayed,518,9773.14
+SHP1015,Mumbai,Pune,Truck,Delayed,167,59131.62
+SHP1016,Delhi,Bangalore,Truck,In Transit,579,48274.73
+SHP1017,Jaipur,Chennai,Truck,Delayed,1771,26877.7
+SHP1018,Pune,Bangalore,Van,Out for Delivery,852,14995.75
+SHP1019,Jaipur,Pune,Mini Truck,Delivered,405,28271.14
+SHP1020,Delhi,Delhi,Truck,Delivered,1208,51193.76
+SHP1021,Delhi,Bangalore,Truck,Out for Delivery,1806,43112.08
+SHP1022,Delhi,Ahmedabad,Truck,Delivered,1890,30806.25
+SHP1023,Jaipur,Ahmedabad,Truck,Out for Delivery,1568,69952.14
+SHP1024,Bangalore,Chennai,Truck,In Transit,1321,45750.14
+SHP1025,Ahmedabad,Delhi,Truck,Delivered,468,7989.03
+SHP1026,Pune,Pune,Van,In Transit,184,3680.37
+SHP1027,Jaipur,Delhi,Truck,Delayed,55,16324.59
+SHP1028,Pune,Pune,Van,In Transit,550,75508.67
+SHP1029,Pune,Jaipur,Truck,Out for Delivery,1581,55572.47
+SHP1030,Pune,Chennai,Mini Truck,Out for Delivery,878,47905.89
+SHP1031,Ahmedabad,Bangalore,Mini Truck,Out for Delivery,1702,48821.95
+SHP1032,Delhi,Mumbai,Container,Delayed,1769,30152.56
+SHP1033,Mumbai,Ahmedabad,Mini Truck,Out for Delivery,1160,25465.75
+SHP1034,Delhi,Delhi,Mini Truck,Delivered,83,79496.41
+SHP1035,Delhi,Chennai,Truck,Delayed,1733,75823.56
+SHP1036,Chennai,Bangalore,Van,Out for Delivery,1868,78874.82
+SHP1037,Pune,Bangalore,Truck,In Transit,372,37927.63
+SHP1038,Ahmedabad,Delhi,Container,Out for Delivery,1931,34166.88
+SHP1039,Delhi,Mumbai,Truck,Delayed,1951,3915.94
+SHP1040,Chennai,Bangalore,Container,In Transit,240,63065.06
+SHP1041,Bangalore,Mumbai,Mini Truck,Out for Delivery,597,13139.0
+SHP1042,Delhi,Jaipur,Truck,Delayed,1461,49641.04
+SHP1043,Ahmedabad,Mumbai,Mini Truck,Delivered,448,33732.83
+SHP1044,Pune,Mumbai,Container,Delivered,1544,34426.16
+SHP1045,Mumbai,Pune,Van,Delayed,293,57264.41
+SHP1046,Bangalore,Chennai,Van,Out for Delivery,1653,37798.37
+SHP1047,Ahmedabad,Jaipur,Truck,Out for Delivery,1522,43652.74
+SHP1048,Chennai,Chennai,Van,In Transit,456,68511.41
+SHP1049,Mumbai,Bangalore,Van,In Transit,1125,22027.52
+SHP1050,Delhi,Delhi,Truck,Out for Delivery,212,62458.95
+SHP1051,Ahmedabad,Ahmedabad,Van,In Transit,1288,68932.25
+SHP1052,Mumbai,Pune,Van,Delayed,316,31458.36
+SHP1053,Delhi,Bangalore,Container,Delayed,857,12693.66
+SHP1054,Mumbai,Chennai,Container,Delivered,1013,75104.59
+SHP1055,Chennai,Delhi,Mini Truck,In Transit,333,72123.47
+SHP1056,Jaipur,Chennai,Truck,Out for Delivery,184,54611.08
+SHP1057,Chennai,Pune,Mini Truck,Delivered,392,36089.79
+SHP1058,Chennai,Delhi,Mini Truck,Delayed,1842,9261.33
+SHP1059,Jaipur,Mumbai,Mini Truck,Delayed,1298,49918.87
+SHP1060,Pune,Pune,Truck,In Transit,1698,43429.01
+SHP1061,Pune,Mumbai,Container,Delayed,907,60409.32
+SHP1062,Ahmedabad,Delhi,Mini Truck,Out for Delivery,1618,79719.58
+SHP1063,Ahmedabad,Ahmedabad,Van,Out for Delivery,1244,16164.22
+SHP1064,Pune,Bangalore,Truck,Delayed,1484,6587.06
+SHP1065,Jaipur,Delhi,Van,Delayed,1979,13963.0
+SHP1066,Jaipur,Bangalore,Mini Truck,Out for Delivery,490,53995.52
+SHP1067,Mumbai,Mumbai,Van,Delayed,1067,55566.58
+SHP1068,Jaipur,Jaipur,Mini Truck,Out for Delivery,1093,50499.87
+SHP1069,Jaipur,Pune,Mini Truck,Delivered,1795,13005.29
+SHP1070,Ahmedabad,Jaipur,Mini Truck,Delayed,1514,34884.48
+SHP1071,Pune,Bangalore,Van,In Transit,370,19211.1
+SHP1072,Chennai,Bangalore,Mini Truck,In Transit,1790,3566.18
+SHP1073,Mumbai,Chennai,Van,Out for Delivery,1976,62804.53
+SHP1074,Delhi,Jaipur,Truck,Delivered,1162,71586.28
+SHP1075,Mumbai,Pune,Mini Truck,Delivered,1088,60204.51
+SHP1076,Bangalore,Bangalore,Mini Truck,Delivered,1460,42436.87
+SHP1077,Delhi,Chennai,Truck,In Transit,886,27154.99
+SHP1078,Chennai,Pune,Van,Delivered,783,6854.87
+SHP1079,Pune,Bangalore,Truck,Delivered,1279,17116.56
+SHP1080,Mumbai,Mumbai,Van,In Transit,1511,36126.73
+SHP1081,Ahmedabad,Bangalore,Van,Out for Delivery,1337,74636.82
+SHP1082,Ahmedabad,Ahmedabad,Mini Truck,In Transit,1785,7723.75
+SHP1083,Mumbai,Pune,Container,Out for Delivery,1104,61796.53
+SHP1084,Jaipur,Jaipur,Container,Delivered,1016,12025.38
+SHP1085,Delhi,Jaipur,Van,Out for Delivery,60,76132.39
+SHP1086,Ahmedabad,Ahmedabad,Truck,Delivered,1891,23673.96
+SHP1087,Ahmedabad,Mumbai,Truck,In Transit,1933,49397.49
+SHP1088,Chennai,Bangalore,Container,Delivered,419,33371.65
+SHP1089,Pune,Delhi,Truck,Out for Delivery,1394,19301.52
+SHP1090,Jaipur,Pune,Mini Truck,Delivered,1084,28404.57
+SHP1091,Bangalore,Mumbai,Mini Truck,Out for Delivery,922,22887.18
+SHP1092,Jaipur,Pune,Van,Out for Delivery,362,44882.91
+SHP1093,Pune,Delhi,Van,Out for Delivery,1879,65733.27
+SHP1094,Ahmedabad,Chennai,Container,Delivered,165,68825.0
+SHP1095,Mumbai,Ahmedabad,Van,In Transit,315,41906.48
+SHP1096,Pune,Pune,Truck,Delivered,1588,16136.76
+SHP1097,Chennai,Delhi,Container,Delivered,958,31891.76
+SHP1098,Chennai,Jaipur,Truck,In Transit,1904,33954.07
+SHP1099,Jaipur,Pune,Mini Truck,Out for Delivery,1863,41998.6
+SHP1100,Mumbai,Chennai,Container,Delivered,928,47775.27
+SHP1101,Pune,Chennai,Container,In Transit,1181,61803.79
+SHP1102,Mumbai,Ahmedabad,Container,Out for Delivery,1202,31607.23
+SHP1103,Mumbai,Pune,Truck,Delivered,205,23711.99
+SHP1104,Bangalore,Jaipur,Container,In Transit,1148,47277.72
+SHP1105,Jaipur,Jaipur,Truck,Out for Delivery,532,18725.71
+SHP1106,Mumbai,Mumbai,Van,In Transit,648,15336.38
+SHP1107,Jaipur,Ahmedabad,Container,In Transit,467,19523.24
+SHP1108,Chennai,Delhi,Container,Delayed,219,20767.65
+SHP1109,Delhi,Chennai,Container,Delayed,222,76670.64
+SHP1110,Jaipur,Chennai,Mini Truck,Delayed,147,33446.96
+SHP1111,Ahmedabad,Ahmedabad,Truck,Delivered,539,49252.71
+SHP1112,Mumbai,Delhi,Truck,Out for Delivery,266,4755.71
+SHP1113,Delhi,Chennai,Van,Out for Delivery,233,45392.02
+SHP1114,Mumbai,Ahmedabad,Truck,Delivered,1456,22751.82
+SHP1115,Pune,Mumbai,Container,Delivered,1625,63411.57
+SHP1116,Ahmedabad,Ahmedabad,Mini Truck,Out for Delivery,1601,33169.53
+SHP1117,Jaipur,Delhi,Container,In Transit,732,15533.28
+SHP1118,Ahmedabad,Pune,Van,Delivered,529,25786.86
+SHP1119,Pune,Jaipur,Mini Truck,In Transit,936,77734.29
+SHP1120,Ahmedabad,Bangalore,Van,Delayed,687,54297.24
+SHP1121,Ahmedabad,Chennai,Container,Delayed,1043,61529.82
+SHP1122,Jaipur,Pune,Truck,Out for Delivery,1980,39173.78
+SHP1123,Chennai,Ahmedabad,Truck,Out for Delivery,1669,51745.7
+SHP1124,Pune,Delhi,Mini Truck,In Transit,1224,52315.36
+SHP1125,Chennai,Pune,Truck,Out for Delivery,58,62230.18
+SHP1126,Mumbai,Ahmedabad,Mini Truck,Out for Delivery,1198,43448.33
+SHP1127,Mumbai,Mumbai,Truck,Delayed,1389,70367.2
+SHP1128,Mumbai,Ahmedabad,Mini Truck,In Transit,866,75170.56
+SHP1129,Jaipur,Jaipur,Mini Truck,In Transit,815,4163.79
+SHP1130,Jaipur,Ahmedabad,Van,Delayed,1057,76511.1
+SHP1131,Mumbai,Chennai,Truck,Delayed,1475,78139.92
+SHP1132,Chennai,Ahmedabad,Mini Truck,Out for Delivery,1931,55675.59
+SHP1133,Bangalore,Ahmedabad,Container,Delayed,1279,8440.07
+SHP1134,Mumbai,Chennai,Mini Truck,Out for Delivery,1358,37236.01
+SHP1135,Ahmedabad,Pune,Mini Truck,In Transit,634,12575.23
+SHP1136,Pune,Mumbai,Truck,Out for Delivery,290,9238.17
+SHP1137,Mumbai,Bangalore,Truck,Delivered,1748,17363.38
+SHP1138,Pune,Mumbai,Van,Delivered,1127,57406.9
+SHP1139,Bangalore,Mumbai,Truck,In Transit,390,65186.39
+SHP1140,Delhi,Mumbai,Mini Truck,Out for Delivery,1938,24626.02
+SHP1141,Pune,Bangalore,Van,Out for Delivery,1674,5814.1
+SHP1142,Chennai,Delhi,Container,Out for Delivery,1050,56630.85
+SHP1143,Bangalore,Jaipur,Mini Truck,Delivered,764,44793.23
+SHP1144,Jaipur,Delhi,Mini Truck,Delayed,1093,21530.6
+SHP1145,Mumbai,Chennai,Truck,Delivered,457,74965.11
+SHP1146,Pune,Bangalore,Van,In Transit,422,42245.63
+SHP1147,Bangalore,Bangalore,Truck,Out for Delivery,1120,69979.31
+SHP1148,Bangalore,Mumbai,Truck,In Transit,715,55021.24
+SHP1149,Delhi,Ahmedabad,Truck,In Transit,1925,47036.67
+SHP1150,Jaipur,Jaipur,Mini Truck,Delayed,1258,8775.92

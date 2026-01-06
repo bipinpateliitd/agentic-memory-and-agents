@@ -1,0 +1,121 @@
+student_id,student_name,college_name,course,year_of_study,cgpa
+STU2001,Rohit Verma,IIT Bombay,Electronics,2,8.44
+STU2002,Anjali Singh,Anna University,Mechanical,3,6.77
+STU2003,Nikhil Rao,IIT Bombay,Electronics,3,9.33
+STU2004,Nikhil Rao,Delhi University,Civil,1,8.59
+STU2005,Sneha Joshi,IIT Delhi,Electrical,3,6.82
+STU2006,Sneha Joshi,Delhi University,Civil,4,9.76
+STU2007,Anjali Singh,Delhi University,Electronics,4,7.02
+STU2008,Sneha Joshi,NIT Trichy,Mechanical,2,8.66
+STU2009,Pallavi Desai,NIT Trichy,Computer Science,3,9.63
+STU2010,Rohit Verma,BITS Pilani,Civil,4,8.14
+STU2011,Pallavi Desai,IIT Delhi,Electrical,3,5.68
+STU2012,Karan Mehta,BITS Pilani,Computer Science,2,6.9
+STU2013,Anjali Singh,IIT Bombay,Mechanical,3,6.82
+STU2014,Sneha Joshi,BITS Pilani,Computer Science,2,7.53
+STU2015,Pallavi Desai,BITS Pilani,Civil,1,7.05
+STU2016,Sneha Joshi,Delhi University,Civil,3,5.95
+STU2017,Karan Mehta,Anna University,Electronics,1,6.38
+STU2018,Nikhil Rao,BITS Pilani,Civil,4,6.56
+STU2019,Anjali Singh,BITS Pilani,Mechanical,3,9.03
+STU2020,Pallavi Desai,Delhi University,Mechanical,4,6.1
+STU2021,Karan Mehta,Delhi University,Electronics,2,8.8
+STU2022,Karan Mehta,IIT Bombay,Civil,3,6.26
+STU2023,Pallavi Desai,IIT Delhi,Data Science,3,6.33
+STU2024,Aman Kumar,NIT Trichy,Civil,3,9.09
+STU2025,Pallavi Desai,BITS Pilani,Mechanical,2,7.17
+STU2026,Rohit Verma,IIT Bombay,Electronics,3,8.06
+STU2027,Sneha Joshi,Anna University,Electronics,1,6.75
+STU2028,Anjali Singh,IIT Bombay,Electrical,3,6.03
+STU2029,Rohit Verma,Delhi University,Electrical,3,6.26
+STU2030,Aman Kumar,BITS Pilani,Civil,3,9.62
+STU2031,Nikhil Rao,NIT Trichy,Data Science,2,9.65
+STU2032,Aman Kumar,BITS Pilani,Civil,2,9.35
+STU2033,Rohit Verma,NIT Trichy,Data Science,4,9.26
+STU2034,Sneha Joshi,BITS Pilani,Data Science,1,7.8
+STU2035,Nikhil Rao,IIT Bombay,Data Science,4,6.39
+STU2036,Pallavi Desai,Delhi University,Electronics,1,7.72
+STU2037,Karan Mehta,Anna University,Electrical,2,6.78
+STU2038,Nikhil Rao,Anna University,Computer Science,2,7.55
+STU2039,Anjali Singh,NIT Trichy,Mechanical,3,8.13
+STU2040,Pallavi Desai,Delhi University,Computer Science,1,8.65
+STU2041,Karan Mehta,BITS Pilani,Mechanical,4,7.04
+STU2042,Rohit Verma,Delhi University,Computer Science,2,9.32
+STU2043,Aman Kumar,IIT Delhi,Data Science,1,7.37
+STU2044,Anjali Singh,Delhi University,Computer Science,3,5.86
+STU2045,Nikhil Rao,BITS Pilani,Civil,1,8.28
+STU2046,Anjali Singh,Anna University,Electrical,1,8.17
+STU2047,Aman Kumar,Anna University,Electrical,2,6.66
+STU2048,Karan Mehta,BITS Pilani,Computer Science,2,7.25
+STU2049,Rohit Verma,BITS Pilani,Civil,1,8.1
+STU2050,Anjali Singh,IIT Delhi,Electrical,2,9.01
+STU2051,Anjali Singh,BITS Pilani,Civil,1,7.0
+STU2052,Aman Kumar,Delhi University,Civil,3,7.69
+STU2053,Sneha Joshi,NIT Trichy,Electronics,1,8.13
+STU2054,Sneha Joshi,BITS Pilani,Civil,2,9.49
+STU2055,Anjali Singh,IIT Delhi,Civil,2,7.71
+STU2056,Aman Kumar,IIT Delhi,Civil,2,9.19
+STU2057,Sneha Joshi,BITS Pilani,Electronics,2,5.96
+STU2058,Nikhil Rao,Anna University,Electronics,3,6.31
+STU2059,Anjali Singh,NIT Trichy,Electrical,2,6.34
+STU2060,Nikhil Rao,NIT Trichy,Electronics,4,8.19
+STU2061,Anjali Singh,BITS Pilani,Electrical,2,9.3
+STU2062,Sneha Joshi,BITS Pilani,Civil,2,7.49
+STU2063,Rohit Verma,IIT Delhi,Data Science,2,6.97
+STU2064,Aman Kumar,Anna University,Civil,4,9.11
+STU2065,Nikhil Rao,Delhi University,Mechanical,2,8.59
+STU2066,Rohit Verma,NIT Trichy,Electronics,1,8.07
+STU2067,Rohit Verma,BITS Pilani,Computer Science,2,7.35
+STU2068,Karan Mehta,Anna University,Mechanical,1,8.85
+STU2069,Rohit Verma,IIT Delhi,Computer Science,1,6.93
+STU2070,Rohit Verma,Delhi University,Electrical,1,6.06
+STU2071,Sneha Joshi,NIT Trichy,Electronics,4,6.76
+STU2072,Nikhil Rao,IIT Delhi,Electronics,4,7.07
+STU2073,Anjali Singh,IIT Delhi,Electronics,3,5.98
+STU2074,Sneha Joshi,IIT Bombay,Data Science,3,9.73
+STU2075,Karan Mehta,IIT Bombay,Electronics,2,7.34
+STU2076,Aman Kumar,IIT Delhi,Electronics,3,8.89
+STU2077,Nikhil Rao,IIT Bombay,Electrical,3,8.8
+STU2078,Sneha Joshi,BITS Pilani,Electrical,3,7.62
+STU2079,Anjali Singh,IIT Bombay,Electrical,4,7.47
+STU2080,Pallavi Desai,IIT Bombay,Civil,1,7.57
+STU2081,Nikhil Rao,Delhi University,Civil,2,6.14
+STU2082,Aman Kumar,IIT Bombay,Computer Science,2,6.39
+STU2083,Aman Kumar,NIT Trichy,Electronics,3,6.65
+STU2084,Rohit Verma,Anna University,Computer Science,4,9.22
+STU2085,Nikhil Rao,IIT Bombay,Electronics,3,9.75
+STU2086,Anjali Singh,IIT Bombay,Mechanical,3,5.76
+STU2087,Aman Kumar,IIT Bombay,Computer Science,1,6.83
+STU2088,Pallavi Desai,IIT Bombay,Data Science,3,6.27
+STU2089,Anjali Singh,Delhi University,Electrical,1,6.65
+STU2090,Anjali Singh,IIT Bombay,Electronics,3,7.87
+STU2091,Pallavi Desai,IIT Delhi,Mechanical,1,8.24
+STU2092,Pallavi Desai,NIT Trichy,Mechanical,2,7.14
+STU2093,Anjali Singh,NIT Trichy,Electrical,1,6.61
+STU2094,Karan Mehta,Anna University,Electrical,4,9.08
+STU2095,Sneha Joshi,IIT Delhi,Mechanical,3,8.36
+STU2096,Anjali Singh,NIT Trichy,Data Science,3,7.67
+STU2097,Nikhil Rao,Delhi University,Electrical,2,8.01
+STU2098,Aman Kumar,IIT Delhi,Electrical,4,7.02
+STU2099,Sneha Joshi,BITS Pilani,Computer Science,4,7.56
+STU2100,Sneha Joshi,BITS Pilani,Computer Science,3,8.66
+STU2101,Nikhil Rao,BITS Pilani,Civil,4,7.34
+STU2102,Karan Mehta,Anna University,Data Science,1,9.48
+STU2103,Sneha Joshi,Delhi University,Civil,2,7.2
+STU2104,Aman Kumar,Delhi University,Mechanical,2,7.38
+STU2105,Karan Mehta,Anna University,Computer Science,4,6.02
+STU2106,Aman Kumar,IIT Delhi,Civil,3,5.76
+STU2107,Pallavi Desai,Delhi University,Electronics,2,6.1
+STU2108,Anjali Singh,BITS Pilani,Civil,4,8.9
+STU2109,Aman Kumar,IIT Delhi,Mechanical,1,9.28
+STU2110,Nikhil Rao,IIT Delhi,Civil,2,5.6
+STU2111,Karan Mehta,BITS Pilani,Electrical,4,8.71
+STU2112,Sneha Joshi,NIT Trichy,Civil,4,5.59
+STU2113,Sneha Joshi,Delhi University,Mechanical,1,8.05
+STU2114,Aman Kumar,IIT Bombay,Computer Science,4,6.56
+STU2115,Aman Kumar,BITS Pilani,Computer Science,1,5.74
+STU2116,Sneha Joshi,BITS Pilani,Computer Science,2,8.01
+STU2117,Nikhil Rao,NIT Trichy,Electronics,3,8.12
+STU2118,Karan Mehta,IIT Bombay,Civil,1,7.28
+STU2119,Nikhil Rao,IIT Delhi,Electronics,3,5.93
+STU2120,Aman Kumar,IIT Delhi,Mechanical,4,8.83

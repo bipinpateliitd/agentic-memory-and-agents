@@ -1,0 +1,121 @@
+patient_id,patient_name,hospital_name,department,diagnosis,visit_date,bill_amount_inr
+PAT1000,Aarav Sharma,Fortis Hospital,Dermatology,Diabetes,2025-06-27,19150.31
+PAT1001,Ananya Iyer,KIMS Hyderabad,Orthopedics,Migraine,2025-08-20,37750.54
+PAT1002,Aarav Sharma,AIIMS Delhi,Orthopedics,Back Pain,2025-05-17,23628.94
+PAT1003,Aarav Sharma,Narayana Health,Orthopedics,Skin Allergy,2025-03-09,16998.25
+PAT1004,Pooja Mehta,Apollo Hospital,Orthopedics,Skin Allergy,2025-03-15,44049.58
+PAT1005,Pooja Mehta,Fortis Hospital,Orthopedics,Viral Fever,2025-10-17,43491.24
+PAT1006,Pooja Mehta,Fortis Hospital,Cardiology,Hypertension,2025-08-02,3502.2
+PAT1007,Sneha Nair,Apollo Hospital,General Medicine,Skin Allergy,2025-04-10,8427.45
+PAT1008,Rahul Singh,AIIMS Delhi,Pediatrics,Viral Fever,2025-03-24,19360.08
+PAT1009,Pooja Mehta,Apollo Hospital,Orthopedics,Migraine,2025-02-14,13390.01
+PAT1010,Neha Verma,AIIMS Delhi,ENT,Skin Allergy,2025-06-06,24117.53
+PAT1011,Neha Verma,Fortis Hospital,Orthopedics,Migraine,2025-01-01,9937.97
+PAT1012,Aarav Sharma,KIMS Hyderabad,ENT,Fracture,2025-06-08,43811.36
+PAT1013,Pooja Mehta,Fortis Hospital,ENT,Viral Fever,2025-03-26,24456.22
+PAT1014,Suresh Kumar,Manipal Hospital,General Medicine,Hypertension,2025-01-30,28735.26
+PAT1015,Vikram Rao,KIMS Hyderabad,Pediatrics,Back Pain,2025-01-19,23737.5
+PAT1016,Ananya Iyer,KIMS Hyderabad,ENT,Migraine,2025-03-24,29075.43
+PAT1017,Amit Gupta,Narayana Health,Orthopedics,Viral Fever,2025-02-10,35138.78
+PAT1018,Aarav Sharma,KIMS Hyderabad,Pediatrics,Hypertension,2025-08-03,9610.69
+PAT1019,Aarav Sharma,Manipal Hospital,Pediatrics,Diabetes,2025-02-23,21186.48
+PAT1020,Rahul Singh,Manipal Hospital,Dermatology,Back Pain,2025-07-01,16381.11
+PAT1021,Sneha Nair,AIIMS Delhi,ENT,Back Pain,2025-12-17,9473.07
+PAT1022,Sneha Nair,Narayana Health,Cardiology,Migraine,2025-04-24,18640.01
+PAT1023,Riya Patel,Manipal Hospital,Cardiology,Viral Fever,2025-06-19,25868.19
+PAT1024,Neha Verma,Fortis Hospital,Cardiology,Hypertension,2025-10-27,1726.46
+PAT1025,Amit Gupta,Narayana Health,Orthopedics,Diabetes,2025-06-28,43131.35
+PAT1026,Vikram Rao,Fortis Hospital,Dermatology,Skin Allergy,2025-05-13,30688.63
+PAT1027,Amit Gupta,Apollo Hospital,Pediatrics,Diabetes,2025-02-08,38831.1
+PAT1028,Amit Gupta,AIIMS Delhi,ENT,Back Pain,2025-11-21,9663.73
+PAT1029,Sneha Nair,Manipal Hospital,Orthopedics,Migraine,2025-10-11,7718.51
+PAT1030,Amit Gupta,Narayana Health,Cardiology,Diabetes,2025-10-15,42343.75
+PAT1031,Ananya Iyer,Fortis Hospital,Neurology,Diabetes,2025-03-27,10822.55
+PAT1032,Suresh Kumar,KIMS Hyderabad,Cardiology,Migraine,2025-10-11,26529.66
+PAT1033,Sneha Nair,Fortis Hospital,General Medicine,Viral Fever,2025-10-30,33256.41
+PAT1034,Pooja Mehta,KIMS Hyderabad,Pediatrics,Skin Allergy,2025-05-19,36019.3
+PAT1035,Vikram Rao,Manipal Hospital,Pediatrics,Fracture,2025-05-03,38560.15
+PAT1036,Sneha Nair,KIMS Hyderabad,Cardiology,Diabetes,2025-04-05,11217.71
+PAT1037,Sneha Nair,Manipal Hospital,ENT,Fracture,2025-06-11,46526.56
+PAT1038,Vikram Rao,Narayana Health,Cardiology,Diabetes,2025-11-16,20867.05
+PAT1039,Amit Gupta,Apollo Hospital,Pediatrics,Hypertension,2025-06-23,15607.73
+PAT1040,Amit Gupta,AIIMS Delhi,General Medicine,Fracture,2025-03-03,37918.13
+PAT1041,Ananya Iyer,Apollo Hospital,Neurology,Diabetes,2025-11-25,27063.82
+PAT1042,Pooja Mehta,AIIMS Delhi,Pediatrics,Viral Fever,2025-02-13,28713.22
+PAT1043,Riya Patel,Manipal Hospital,General Medicine,Migraine,2025-02-21,29721.38
+PAT1044,Sneha Nair,Manipal Hospital,Dermatology,Back Pain,2025-10-16,32121.38
+PAT1045,Neha Verma,Fortis Hospital,Cardiology,Skin Allergy,2025-07-24,36081.27
+PAT1046,Riya Patel,AIIMS Delhi,General Medicine,Migraine,2025-11-14,13182.68
+PAT1047,Amit Gupta,KIMS Hyderabad,Dermatology,Viral Fever,2025-10-12,48382.13
+PAT1048,Suresh Kumar,AIIMS Delhi,Pediatrics,Fracture,2025-12-16,30388.03
+PAT1049,Amit Gupta,Apollo Hospital,General Medicine,Hypertension,2025-06-07,21093.13
+PAT1050,Rahul Singh,Narayana Health,Neurology,Back Pain,2025-06-17,49592.44
+PAT1051,Suresh Kumar,Fortis Hospital,Orthopedics,Back Pain,2025-08-09,44702.72
+PAT1052,Suresh Kumar,Manipal Hospital,Pediatrics,Viral Fever,2025-12-14,16629.79
+PAT1053,Pooja Mehta,Apollo Hospital,Dermatology,Migraine,2025-07-14,19980.75
+PAT1054,Riya Patel,Fortis Hospital,ENT,Viral Fever,2025-12-03,14148.39
+PAT1055,Riya Patel,Fortis Hospital,Orthopedics,Skin Allergy,2025-02-08,39415.16
+PAT1056,Sneha Nair,Narayana Health,Orthopedics,Back Pain,2025-09-29,6857.57
+PAT1057,Sneha Nair,Fortis Hospital,Neurology,Fracture,2025-08-22,25266.96
+PAT1058,Sneha Nair,Manipal Hospital,Neurology,Viral Fever,2025-04-25,21737.94
+PAT1059,Suresh Kumar,Fortis Hospital,Orthopedics,Diabetes,2025-08-29,30375.11
+PAT1060,Pooja Mehta,Fortis Hospital,ENT,Fracture,2025-05-19,40537.46
+PAT1061,Suresh Kumar,Manipal Hospital,Pediatrics,Migraine,2025-10-19,28274.93
+PAT1062,Riya Patel,AIIMS Delhi,Cardiology,Migraine,2025-11-28,4065.73
+PAT1063,Aarav Sharma,Narayana Health,Pediatrics,Migraine,2025-01-09,39610.56
+PAT1064,Vikram Rao,AIIMS Delhi,Pediatrics,Back Pain,2025-10-29,4245.3
+PAT1065,Pooja Mehta,Apollo Hospital,Pediatrics,Viral Fever,2025-04-06,33476.98
+PAT1066,Ananya Iyer,AIIMS Delhi,Orthopedics,Skin Allergy,2025-03-23,22332.74
+PAT1067,Vikram Rao,AIIMS Delhi,Cardiology,Fracture,2025-06-19,26891.44
+PAT1068,Amit Gupta,Manipal Hospital,Orthopedics,Fracture,2025-09-26,40059.37
+PAT1069,Suresh Kumar,AIIMS Delhi,Orthopedics,Diabetes,2025-09-07,43686.94
+PAT1070,Suresh Kumar,KIMS Hyderabad,Pediatrics,Skin Allergy,2025-06-10,21228.08
+PAT1071,Pooja Mehta,AIIMS Delhi,Cardiology,Fracture,2025-12-16,12799.95
+PAT1072,Rahul Singh,KIMS Hyderabad,Orthopedics,Hypertension,2025-09-09,48451.52
+PAT1073,Ananya Iyer,Narayana Health,Dermatology,Fracture,2025-10-27,7702.62
+PAT1074,Vikram Rao,Apollo Hospital,Orthopedics,Diabetes,2025-05-22,7175.04
+PAT1075,Amit Gupta,Manipal Hospital,Dermatology,Viral Fever,2025-07-15,36136.66
+PAT1076,Pooja Mehta,Fortis Hospital,Cardiology,Diabetes,2025-08-10,18421.53
+PAT1077,Neha Verma,AIIMS Delhi,Orthopedics,Hypertension,2025-08-01,27596.11
+PAT1078,Aarav Sharma,AIIMS Delhi,Neurology,Viral Fever,2025-03-04,3158.08
+PAT1079,Pooja Mehta,Apollo Hospital,Pediatrics,Skin Allergy,2025-12-18,6117.12
+PAT1080,Neha Verma,Narayana Health,Cardiology,Back Pain,2025-06-18,26411.19
+PAT1081,Vikram Rao,Apollo Hospital,Orthopedics,Fracture,2025-06-14,6399.66
+PAT1082,Amit Gupta,Apollo Hospital,Dermatology,Viral Fever,2025-09-27,40608.65
+PAT1083,Sneha Nair,AIIMS Delhi,ENT,Fracture,2025-08-13,34231.31
+PAT1084,Vikram Rao,Apollo Hospital,ENT,Hypertension,2025-07-20,23885.89
+PAT1085,Ananya Iyer,AIIMS Delhi,Cardiology,Skin Allergy,2025-05-19,35533.43
+PAT1086,Suresh Kumar,Fortis Hospital,Orthopedics,Migraine,2025-01-09,1915.62
+PAT1087,Pooja Mehta,Apollo Hospital,ENT,Fracture,2025-08-20,25667.16
+PAT1088,Ananya Iyer,Apollo Hospital,Pediatrics,Fracture,2025-09-16,32699.98
+PAT1089,Amit Gupta,KIMS Hyderabad,Pediatrics,Fracture,2025-01-05,19136.78
+PAT1090,Aarav Sharma,Apollo Hospital,Dermatology,Migraine,2025-09-02,35205.58
+PAT1091,Suresh Kumar,Manipal Hospital,General Medicine,Diabetes,2025-12-16,14243.28
+PAT1092,Sneha Nair,Fortis Hospital,General Medicine,Fracture,2025-12-12,36395.11
+PAT1093,Pooja Mehta,Apollo Hospital,ENT,Fracture,2025-04-25,2907.74
+PAT1094,Rahul Singh,Narayana Health,Pediatrics,Viral Fever,2025-12-05,38127.85
+PAT1095,Vikram Rao,Apollo Hospital,ENT,Viral Fever,2025-03-01,42468.84
+PAT1096,Pooja Mehta,Fortis Hospital,Dermatology,Fracture,2025-10-23,17626.82
+PAT1097,Aarav Sharma,KIMS Hyderabad,Dermatology,Viral Fever,2025-10-14,25320.51
+PAT1098,Suresh Kumar,AIIMS Delhi,Orthopedics,Fracture,2025-07-08,32862.44
+PAT1099,Aarav Sharma,Apollo Hospital,Orthopedics,Skin Allergy,2025-06-23,15208.3
+PAT1100,Pooja Mehta,Narayana Health,Neurology,Fracture,2025-04-02,35452.09
+PAT1101,Sneha Nair,KIMS Hyderabad,Cardiology,Migraine,2025-01-31,16415.34
+PAT1102,Amit Gupta,AIIMS Delhi,Pediatrics,Viral Fever,2025-03-16,35576.86
+PAT1103,Amit Gupta,Apollo Hospital,Cardiology,Fracture,2025-10-18,16101.5
+PAT1104,Aarav Sharma,Fortis Hospital,Neurology,Fracture,2025-07-31,41951.29
+PAT1105,Neha Verma,KIMS Hyderabad,Neurology,Diabetes,2025-04-12,36294.23
+PAT1106,Vikram Rao,Apollo Hospital,General Medicine,Migraine,2025-02-23,19506.14
+PAT1107,Vikram Rao,KIMS Hyderabad,Orthopedics,Hypertension,2025-04-28,26207.97
+PAT1108,Ananya Iyer,Manipal Hospital,Neurology,Back Pain,2025-08-30,39417.92
+PAT1109,Riya Patel,AIIMS Delhi,Pediatrics,Diabetes,2025-11-19,4317.57
+PAT1110,Neha Verma,Apollo Hospital,ENT,Fracture,2025-06-10,6734.3
+PAT1111,Aarav Sharma,KIMS Hyderabad,Cardiology,Hypertension,2025-05-21,37159.78
+PAT1112,Sneha Nair,Fortis Hospital,Neurology,Hypertension,2025-03-08,13081.83
+PAT1113,Suresh Kumar,AIIMS Delhi,Neurology,Viral Fever,2025-11-03,47523.44
+PAT1114,Riya Patel,Apollo Hospital,ENT,Hypertension,2025-10-22,22285.74
+PAT1115,Ananya Iyer,Apollo Hospital,ENT,Fracture,2025-08-02,28111.22
+PAT1116,Neha Verma,AIIMS Delhi,Pediatrics,Back Pain,2025-11-20,34914.47
+PAT1117,Neha Verma,Fortis Hospital,Neurology,Diabetes,2025-05-22,41841.73
+PAT1118,Suresh Kumar,KIMS Hyderabad,Orthopedics,Viral Fever,2025-08-06,728.97
+PAT1119,Riya Patel,Apollo Hospital,General Medicine,Hypertension,2025-09-25,38747.01
